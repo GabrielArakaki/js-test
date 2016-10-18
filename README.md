@@ -11,6 +11,7 @@ Build a simple dashboard that displays a table or a graph with data from a speci
 
 * The dataset to be used is located in folder `assets`
 * The dataset must be transferred by script to a NoSQL database
+* The dashboard should pull the data from the database, ONLY once.
 * The dashboard should run on React
 * All other frameworks/packages are open to the developer
 * No need to worry about CSS
