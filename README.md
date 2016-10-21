@@ -1,11 +1,11 @@
 # Objective
 
-Build a simple dashboard that displays a table or a graph with data from a specific data set.
+Build a simple dashboard that displays a table or a line graph with data from a specific data set.
 
 ## Features
 
 Based on user inputs, the dashboard can:
-* Swap the visualization between table and graph
+* Swap the visualization between table and the line graph
 * Filter the data set by "date" or "state" (the dataset to be used is located in folder `assets`)
 
 ## Conditions
