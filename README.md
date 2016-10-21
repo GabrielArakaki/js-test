@@ -4,15 +4,14 @@ Build a simple dashboard that displays a table or a graph with data from a speci
 
 ## Features
 
-* The user can choose if he wants a table or a graph
-* The user can filter the data set by its values
+Based on user inputs, the dashboard can:
+* Swap the visualization between table and graph
+* Filter the data set by "date" or "state" (the dataset to be used is located in folder `assets`)
 
 ## Conditions
 
-* The dataset to be used is located in folder `assets`
 * The dataset must be transferred by script to a NoSQL database
 * The dashboard should pull the data from the database, ONLY once.
 * The dashboard should run on React
 * All other frameworks/packages are open to the developer
-* No need to worry about CSS
 
